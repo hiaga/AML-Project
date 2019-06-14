@@ -1,2 +1,2 @@
-# AML-Project
+# Bird Species Classification
 AML Project
